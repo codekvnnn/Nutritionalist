@@ -11,3 +11,6 @@ console.log(fetch('https://nutrition-by-api-ninjas.p.rapidapi.com/v1/nutrition?q
 .then(response => console.log(response))
 .catch(err => console.error(err)));
 
+
+
+
